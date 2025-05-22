@@ -76,7 +76,7 @@ You can use your own bounty program data:
 
 - Choose which platform format to treat it as (for parsing)
 
-## 💡 Example Session
+## 💡 Example 
 
 ![image](https://github.com/user-attachments/assets/37c5a9c2-d246-4689-8ddb-9b728f114bfa)
 
