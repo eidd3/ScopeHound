@@ -2,6 +2,8 @@
 
 **ScopeHound** is an interactive Python tool for exploring and filtering assets from public bug bounty programs. It fetches real-time data from the [arkadiyt/bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) project and allows you to drill down into scope details by platform, asset type, bounty eligibility, and more.
 
+![scope (1)](https://github.com/user-attachments/assets/14bc215c-08ae-4301-96a7-859fbf86cca1)
+
 ## 🔍 Features
 
 - Fetches bug bounty data from:
@@ -79,6 +81,4 @@ You can use your own bounty program data:
 ![image](https://github.com/user-attachments/assets/37c5a9c2-d246-4689-8ddb-9b728f114bfa)
 
 ![image](https://github.com/user-attachments/assets/f2841878-1859-4d64-9044-89fa969c6210)
-
-![image](https://github.com/user-attachments/assets/3ee1df50-1b24-48a9-8967-8ab1ca1470d9)
 
